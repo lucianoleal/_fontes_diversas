@@ -1,0 +1,971 @@
+%!Adobe-FontList 1.09
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Bd
+FamilyName:Helvetica Neue LT Std
+StyleName:75 Bold
+FullName:Helvetica Neue LT Std 75 Bold
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-Bd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28240
+FileModTime:1052781464
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BdCn
+FamilyName:Helvetica Neue LT Std
+StyleName:77 Bold Condensed
+FullName:Helvetica Neue LT Std 77 Bold Condensed
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-BdCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29268
+FileModTime:1052781462
+WeightClass:700
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BdCnO
+FamilyName:Helvetica Neue LT Std
+StyleName:77 Bold Condensed Oblique
+FullName:Helvetica Neue LT Std 77 Bold Condensed Oblique
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-BdCnO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30432
+FileModTime:1052781462
+WeightClass:700
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BdEx
+FamilyName:Helvetica Neue LT Std
+StyleName:73 Bold Extended
+FullName:Helvetica Neue LT Std 73 Bold Extended
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-BdEx.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28216
+FileModTime:1052781462
+WeightClass:700
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BdExO
+FamilyName:Helvetica Neue LT Std
+StyleName:73 Bold Extended Oblique
+FullName:Helvetica Neue LT Std 73 Bold Extended Oblique
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-BdExO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29388
+FileModTime:1052781463
+WeightClass:700
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BdIt
+FamilyName:Helvetica Neue LT Std
+StyleName:76 Bold Italic
+FullName:Helvetica Neue LT Std 76 Bold Italic
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-BdIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28712
+FileModTime:1052781463
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BdOu
+FamilyName:Helvetica Neue LT Std
+StyleName:75 Bold Outline
+FullName:Helvetica Neue LT Std 75 Bold Outline
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-BdOu.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:38780
+FileModTime:1052781463
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Blk
+FamilyName:Helvetica Neue LT Std
+StyleName:95 Black
+FullName:Helvetica Neue LT Std 95 Black
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-Blk.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29700
+FileModTime:1052781463
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BlkCn
+FamilyName:Helvetica Neue LT Std
+StyleName:97 Black Condensed
+FullName:Helvetica Neue LT Std 97 Black Condensed
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-BlkCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29984
+FileModTime:1052781463
+WeightClass:900
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BlkCnO
+FamilyName:Helvetica Neue LT Std
+StyleName:97 Black Condensed Oblique
+FullName:Helvetica Neue LT Std 97 Black Condensed Oblique
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-BlkCnO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30696
+FileModTime:1052781463
+WeightClass:900
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BlkEx
+FamilyName:Helvetica Neue LT Std
+StyleName:93 Black Extended
+FullName:Helvetica Neue LT Std 93 Black Extended
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-BlkEx.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29240
+FileModTime:1052781463
+WeightClass:900
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BlkExO
+FamilyName:Helvetica Neue LT Std
+StyleName:93 Black Extended Oblique
+FullName:Helvetica Neue LT Std 93 Black Extended Oblique
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-BlkExO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30516
+FileModTime:1052781463
+WeightClass:900
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BlkIt
+FamilyName:Helvetica Neue LT Std
+StyleName:96 Black Italic
+FullName:Helvetica Neue LT Std 96 Black Italic
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-BlkIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29640
+FileModTime:1052781463
+WeightClass:900
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Cn
+FamilyName:Helvetica Neue LT Std
+StyleName:57 Condensed
+FullName:Helvetica Neue LT Std 57 Condensed
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-Cn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28628
+FileModTime:1052781463
+WeightClass:400
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-CnO
+FamilyName:Helvetica Neue LT Std
+StyleName:57 Condensed Oblique
+FullName:Helvetica Neue LT Std 57 Condensed Oblique
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-CnO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29828
+FileModTime:1052781463
+WeightClass:400
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Ex
+FamilyName:Helvetica Neue LT Std
+StyleName:53 Extended
+FullName:Helvetica Neue LT Std 53 Extended
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-Ex.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27616
+FileModTime:1052781463
+WeightClass:400
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-ExO
+FamilyName:Helvetica Neue LT Std
+StyleName:53 Extended Oblique
+FullName:Helvetica Neue LT Std 53 Extended Oblique
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-ExO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28936
+FileModTime:1052781463
+WeightClass:400
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Hv
+FamilyName:Helvetica Neue LT Std
+StyleName:85 Heavy
+FullName:Helvetica Neue LT Std 85 Heavy
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-Hv.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29092
+FileModTime:1052781463
+WeightClass:750
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-HvCn
+FamilyName:Helvetica Neue LT Std
+StyleName:87 Heavy Condensed
+FullName:Helvetica Neue LT Std 87 Heavy Condensed
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-HvCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30464
+FileModTime:1052781463
+WeightClass:750
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-HvCnO
+FamilyName:Helvetica Neue LT Std
+StyleName:87 Heavy Condensed Oblique
+FullName:Helvetica Neue LT Std 87 Heavy Condensed Oblique
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-HvCnO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31240
+FileModTime:1052781463
+WeightClass:750
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-HvEx
+FamilyName:Helvetica Neue LT Std
+StyleName:83 Heavy Extended
+FullName:Helvetica Neue LT Std 83 Heavy Extended
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-HvEx.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28888
+FileModTime:1052781463
+WeightClass:750
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-HvExO
+FamilyName:Helvetica Neue LT Std
+StyleName:83 Heavy Extended Oblique
+FullName:Helvetica Neue LT Std 83 Heavy Extended Oblique
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-HvExO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30312
+FileModTime:1052781463
+WeightClass:750
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-HvIt
+FamilyName:Helvetica Neue LT Std
+StyleName:86 Heavy Italic
+FullName:Helvetica Neue LT Std 86 Heavy Italic
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-HvIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29488
+FileModTime:1052781463
+WeightClass:750
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-It
+FamilyName:Helvetica Neue LT Std
+StyleName:56 Italic
+FullName:Helvetica Neue LT Std 56 Italic
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28412
+FileModTime:1052781463
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Lt
+FamilyName:Helvetica Neue LT Std
+StyleName:45 Light
+FullName:Helvetica Neue LT Std 45 Light
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-Lt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28120
+FileModTime:1052781464
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-LtCn
+FamilyName:Helvetica Neue LT Std
+StyleName:47 Light Condensed
+FullName:Helvetica Neue LT Std 47 Light Condensed
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-LtCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27776
+FileModTime:1052781464
+WeightClass:300
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-LtCnO
+FamilyName:Helvetica Neue LT Std
+StyleName:47 Light Condensed Oblique
+FullName:Helvetica Neue LT Std 47 Light Condensed Oblique
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-LtCnO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28800
+FileModTime:1052781464
+WeightClass:300
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-LtEx
+FamilyName:Helvetica Neue LT Std
+StyleName:43 Light Extended
+FullName:Helvetica Neue LT Std 43 Light Extended
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-LtEx.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27784
+FileModTime:1052781464
+WeightClass:300
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-LtExO
+FamilyName:Helvetica Neue LT Std
+StyleName:43 Light Extended Oblique
+FullName:Helvetica Neue LT Std 43 Light Extended Oblique
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-LtExO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29280
+FileModTime:1052781464
+WeightClass:300
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-LtIt
+FamilyName:Helvetica Neue LT Std
+StyleName:46 Light Italic
+FullName:Helvetica Neue LT Std 46 Light Italic
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-LtIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28628
+FileModTime:1052781464
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Md
+FamilyName:Helvetica Neue LT Std
+StyleName:65 Medium
+FullName:Helvetica Neue LT Std 65 Medium
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-Md.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28260
+FileModTime:1052781464
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-MdCn
+FamilyName:Helvetica Neue LT Std
+StyleName:67 Medium Condensed
+FullName:Helvetica Neue LT Std 67 Medium Condensed
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-MdCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30380
+FileModTime:1052781464
+WeightClass:500
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-MdCnO
+FamilyName:Helvetica Neue LT Std
+StyleName:67 Medium Condensed Oblique
+FullName:Helvetica Neue LT Std 67 Medium Condensed Oblique
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-MdCnO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31264
+FileModTime:1052781464
+WeightClass:500
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-MdEx
+FamilyName:Helvetica Neue LT Std
+StyleName:63 Medium Extended
+FullName:Helvetica Neue LT Std 63 Medium Extended
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-MdEx.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28144
+FileModTime:1052781464
+WeightClass:500
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-MdExO
+FamilyName:Helvetica Neue LT Std
+StyleName:63 Medium Extended Oblique
+FullName:Helvetica Neue LT Std 63 Medium Extended Oblique
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-MdExO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29192
+FileModTime:1052781464
+WeightClass:500
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-MdIt
+FamilyName:Helvetica Neue LT Std
+StyleName:66 Medium Italic
+FullName:Helvetica Neue LT Std 66 Medium Italic
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-MdIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28776
+FileModTime:1052781464
+WeightClass:500
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Roman
+FamilyName:Helvetica Neue LT Std
+StyleName:55 Roman
+FullName:Helvetica Neue LT Std 55 Roman
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27476
+FileModTime:1055427973
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Th
+FamilyName:Helvetica Neue LT Std
+StyleName:35 Thin
+FullName:Helvetica Neue LT Std 35 Thin
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-Th.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28124
+FileModTime:1052781464
+WeightClass:250
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-ThCn
+FamilyName:Helvetica Neue LT Std
+StyleName:37 Thin Condensed
+FullName:Helvetica Neue LT Std 37 Thin Condensed
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-ThCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29292
+FileModTime:1052781464
+WeightClass:250
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-ThCnO
+FamilyName:Helvetica Neue LT Std
+StyleName:37 Thin Condensed Oblique
+FullName:Helvetica Neue LT Std 37 Thin Condensed Oblique
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-ThCnO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30564
+FileModTime:1052781464
+WeightClass:250
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-ThEx
+FamilyName:Helvetica Neue LT Std
+StyleName:33 Thin Extended
+FullName:Helvetica Neue LT Std 33 Thin Extended
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-ThEx.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27468
+FileModTime:1055427973
+WeightClass:250
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-ThExO
+FamilyName:Helvetica Neue LT Std
+StyleName:33 Thin Extended Oblique
+FullName:Helvetica Neue LT Std 33 Thin Extended Oblique
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-ThExO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28792
+FileModTime:1055427973
+WeightClass:250
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-ThIt
+FamilyName:Helvetica Neue LT Std
+StyleName:36 Thin Italic
+FullName:Helvetica Neue LT Std 36 Thin Italic
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-ThIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28772
+FileModTime:1052781464
+WeightClass:250
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-UltLt
+FamilyName:Helvetica Neue LT Std
+StyleName:25 Ultra Light
+FullName:Helvetica Neue LT Std 25 Ultra Light
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-UltLt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27684
+FileModTime:1052781464
+WeightClass:275
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-UltLtCn
+FamilyName:Helvetica Neue LT Std
+StyleName:27 Ultra Light Condensed
+FullName:Helvetica Neue LT Std 27 Ultra Light Condensed
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-UltLtCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29024
+FileModTime:1052781464
+WeightClass:275
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-UltLtCnO
+FamilyName:Helvetica Neue LT Std
+StyleName:27 Ultra Light Condensed Oblique
+FullName:Helvetica Neue LT Std 27 Ultra Light Condensed Oblique
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-UltLtCnO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30024
+FileModTime:1052781464
+WeightClass:275
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-UltLtEx
+FamilyName:Helvetica Neue LT Std
+StyleName:23 Ultra Light Extended
+FullName:Helvetica Neue LT Std 23 Ultra Light Extended
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-UltLtEx.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27588
+FileModTime:1052781464
+WeightClass:275
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-UltLtExO
+FamilyName:Helvetica Neue LT Std
+StyleName:23 Ultra Light Extended Oblique
+FullName:Helvetica Neue LT Std 23 Ultra Light Extended Oblique
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-UltLtExO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28900
+FileModTime:1052781464
+WeightClass:275
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-UltLtIt
+FamilyName:Helvetica Neue LT Std
+StyleName:26 Ultra Light Italic
+FullName:Helvetica Neue LT Std 26 Ultra Light Italic
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-UltLtIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28688
+FileModTime:1057271255
+WeightClass:275
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-XBlkCn
+FamilyName:Helvetica Neue LT Std
+StyleName:107 Extra Black Condensed
+FullName:Helvetica Neue LT Std 107 Extra Black Condensed
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-XBlkCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30592
+FileModTime:1055427973
+WeightClass:950
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-XBlkCnO
+FamilyName:Helvetica Neue LT Std
+StyleName:107 Extra Black Condensed Oblique
+FullName:Helvetica Neue LT Std 107 Extra Black Condensed Oblique
+WritingScript:Roman
+OutlineFileName:C:/FONTES_NAO_APAGUE/FONTES_DIVERSAS/HELVETICA_NEUE/\HelveticaNeueLTStd-XBlkCnO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31248
+FileModTime:1055427973
+WeightClass:950
+WidthClass:3
+AngleClass:1
+%EndFont
+
